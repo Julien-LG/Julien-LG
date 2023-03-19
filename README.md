@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Je suis un étudiant en licence informatique. J'apprécie tout particulièrement le développement informatique notamment avec C# et Java !
+Je suis un étudiant en licence informatique. J'apprécie tout particulièrement le développement logiciel notamment avec C# et Java !
 
 ## Mes projets actuels
 
